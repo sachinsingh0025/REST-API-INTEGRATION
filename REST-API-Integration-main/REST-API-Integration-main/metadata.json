@@ -1,0 +1,5 @@
+{
+  "name": "Copy of GitHub User Finder",
+  "description": "A sleek and responsive web application to search for GitHub users and view their profiles and repositories. It features a debounced search for optimized API requests and provides a clean, user-friendly interface to explore GitHub data.",
+  "requestFramePermissions": []
+}
